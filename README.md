@@ -11,3 +11,4 @@ the Supplementary data section of [Campbell et al. (2014)](https://doi.org/10.10
 * scipy
 * emcee v2
 * cython
+* iminuit
